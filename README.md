@@ -10,8 +10,8 @@ Thrive is designed for anyone who is looking to improve their wellbeing and over
 
 ## Authors
 
-- [@DhairyaMajmudar](https://github.com/DhairyaMajmudar)
 - [@IshanGupta](https://github.com/ishangupta03)
+- [@DhairyaMajmudar](https://github.com/DhairyaMajmudar)
 - [@RitikGupta](https://github.com/Ritik654321)
 - [@RiteshGupta](https://github.com/Ritesh456789)
 
@@ -20,7 +20,7 @@ Thrive is designed for anyone who is looking to improve their wellbeing and over
 ## 🚀 About our Team
 Learning web Development!
 
-We are a team of four members Dhairya Majmudar, Ishan Gupta, Ritik Gupta, Ritesh Gupta
+We are a team of four members Ishan Gupta, Dhairya Majmudar, Ritik Gupta, Ritesh Gupta
 
 We are first year undergrad in Indian Institute of Information Technology Kota
 
